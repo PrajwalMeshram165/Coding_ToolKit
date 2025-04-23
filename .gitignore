@@ -1,0 +1,17 @@
+# Ignore node modules and build files
+/frontend/node_modules/
+/frontend/dist/
+
+# Ignore Eclipse & VS Code project files
+**/.classpath
+**/.project
+**/.settings/
+**/.vscode/
+
+# Ignore Java build outputs
+/backend/target/
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+ECHO is on.
