@@ -18,6 +18,22 @@ This is a full-stack web application built using React (Vite) on the frontend an
 - Backend: Spring Boot, Java
 - Visualization: Mermaid.js
 
+## Project Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Home Page
+![Home Page](First.png)
+
+### Tools
+# 1 - Code Explainer
+![Home Page](FirstCard1.png)
+
+# 2 - Code Flowchart
+![Home Page](FirstCard1Tool2.png)
+
+
 ## 🚀 Getting Started
 
 ### Frontend
@@ -25,4 +41,7 @@ This is a full-stack web application built using React (Vite) on the frontend an
 cd frontend
 npm install
 npm run dev
-it 
+it
+
+
+
