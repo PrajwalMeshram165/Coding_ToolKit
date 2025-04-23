@@ -21,7 +21,13 @@ This is a full-stack web application built using React (Vite) on the frontend an
 ## Project Screenshots
 
 ### Dashboard
-![Dashboard](dashboard.jpg)
+![Dashboard](dashbord.jpg)
+
+### Login
+![Login](Login.jpg)
+
+### Register
+![Register](Register.jpg)
 
 ### Home Page
 ![Home Page](First.jpg)
