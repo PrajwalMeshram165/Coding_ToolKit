@@ -21,16 +21,16 @@ This is a full-stack web application built using React (Vite) on the frontend an
 ## Project Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Home Page
 ![Home Page](First.png)
 
 ### Tools
-# 1 - Code Explainer
+### 1 - Code Explainer
 ![Home Page](FirstCard1.png)
 
-# 2 - Code Flowchart
+### 2 - Code Flowchart
 ![Home Page](FirstCard1Tool2.png)
 
 
