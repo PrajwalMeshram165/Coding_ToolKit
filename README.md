@@ -21,7 +21,7 @@ This is a full-stack web application built using React (Vite) on the frontend an
 ## Project Screenshots
 
 ### Dashboard
-![Dashboard](dashbord.jpg)
+![Dashboard](Dashbord.jpg)
 
 ### Login
 ![Login](Login.jpg)
@@ -32,7 +32,8 @@ This is a full-stack web application built using React (Vite) on the frontend an
 ### Home Page
 ![Home Page](First.jpg)
 
-### Tools
+
+## Tools
 ### 1 - Code Explainer
 ![Home Page](FirstCard1.jpg)
 
